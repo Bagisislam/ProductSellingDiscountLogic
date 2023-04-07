@@ -1,0 +1,6 @@
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\EntityLayer\obj\Debug\EntityLayer.pdb

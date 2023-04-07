@@ -1,0 +1,14 @@
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\Core.dll.config
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\Core.dll
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\Core.pdb
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityFramework.dll
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityLayer.pdb
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityFramework.xml
+C:\Users\gsli_\source\repos\ProductSelling\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gsli_\source\repos\ProductSelling\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\gsli_\source\repos\ProductSelling\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\gsli_\source\repos\ProductSelling\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\gsli_\source\repos\ProductSelling\Core\obj\Debug\Core.dll
+C:\Users\gsli_\source\repos\ProductSelling\Core\obj\Debug\Core.pdb

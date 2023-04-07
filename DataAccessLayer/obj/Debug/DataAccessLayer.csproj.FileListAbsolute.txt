@@ -1,0 +1,17 @@
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\Core.dll.config
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\gsli_\source\repos\ProductSelling\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
